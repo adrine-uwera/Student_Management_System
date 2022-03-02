@@ -1,0 +1,5 @@
+student email, student name, gender, date of birth, address, phone number, major, date of enrollment, student status, github username/venture/mission, expected graduation date, internship
+a.uwera@alustudent.com,Adrine Uwera,f,2002-04-07,Gikondo,0786347222,Computer Science,2021-01-05,2,Current,AdrineUwera,2024-12-31,[]
+p.ishimwe1@alustudent.com,Peace Ishimwe,f,2001-06-17,Kimironko,078345553,International Business And Trade,2019-01-01,2,Current,"{'Venture name': 'PI mental health', 'Venture details': 'Advocating mental health in rwanda'}",2021-12-28,[]
+p.kirenga@alustudent.com,Patrick Kirenga,m,1998-01-01,Karuruma,073472323,Global Challenges,2020-01-01,2,Current,Governance and patriotism,2022-12-28,[]
+e.umubyeyi@alustudent.com,Evelyne Umubyeyi,f,2002-08-04,Gatenga,073473888,Entrepreneurship,2021-01-05,1,Current,[],2023-01-03,"{'Company name': 'ALU', 'Start date': '2021-09-01', 'End date': '2021-12-31', 'Position': 'Faculty support intern'}"
