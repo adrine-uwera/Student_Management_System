@@ -4,7 +4,7 @@ In this project, we will design a program to help the registrar's office of ALU 
 ###Technology used
 This project is purely written in python language and was developed in pycharm.
 ### Program future improvement
-1. Checking user password before allowing them to access registrar or student priviledges
+1. Checking user password before allowing them to access registrar or student privileges
 2. Assigning emails automatically upon student registration without the user having to manually come up with them, and ensuring that no two students have a similar email.
 ### How to install the project 
 Step 1: To run the program on your computer, you need to have installed git in order to clone our repository. 
@@ -15,6 +15,7 @@ Step 2: Clone the repository and run it in your code editor.
 ### How to use our project
 To use our project you simply have to run it in your console or terminal, and follow instructions by the program.
 ### Project collaborators
--Evelyne UMUBYEYI Github: UmubyeyiEvelyne  
+-Adrine UWERA Github: adrine-uwera 
 
--Adrine UWERA Github: AdrineUwera 
+
+-Evelyne UMUBYEYI Github: UmubyeyiEvelyne  
